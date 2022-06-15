@@ -7,4 +7,4 @@ We sought to systematically identify biological properties associated with varia
 
 ## Content
 
-The GitHub repository contains all Supplementary Tables of the manuscript paper. 
+The GitHub repository contains all Supplementary Tables of the corresponding manuscript. 
