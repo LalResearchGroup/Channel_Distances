@@ -1,0 +1,32 @@
+﻿Supplementary Table 4: Enrichment of patient and over population variants in nine features for three different groups of patient variants. Either variants classified as pathogenic, variants classified as likle-y pathogenic or the combined set of variants were considered. lCI: lower confidence Intervall, uCI: upper confidence intervall, PPI: Protein-Protein Interactions;;;;;
+Feature;Variant group ;Odds ratio;lCI;uCI;P-value
+Beta-sheet;Pathogenic;0.3;0.2;0.4;7.00E-20
+Beta-sheet;Likely-pathogenic;0.3;0.2;0.6;2.70E-06
+Beta-sheet;Pathogenic + likely-Pathogenic ;0.3;0.3;0.4;1.30E-20
+Coil;Pathogenic;0.7;0.6;0.8;6.10E-10
+Coil;Likely-pathogenic;0.8;0.6;0.9;4.80E-03
+Coil;Pathogenic + likely-Pathogenic ;0.7;0.7;0.8;9.10E-11
+Cytosol;Pathogenic;0.6;0.5;0.6;5.50E-24
+Cytosol;Likely-pathogenic;0.5;0.4;0.7;2.40E-10
+Cytosol;Pathogenic + likely-Pathogenic ;0.6;0.5;0.6;1.60E-25
+Extracellular;Pathogenic;0.7;0.6;0.8;1.10E-12
+Extracellular;Likely-pathogenic;0.8;0.6;0.9;1.10E-02
+Extracellular;Pathogenic + likely-Pathogenic ;0.7;0.6;0.8;2.20E-13
+Helix;Pathogenic;1.7;1.5;1.9;1.80E-24
+Helix;Likely-pathogenic;1.6;1.3;1.9;5.50E-07
+Helix;Pathogenic + likely-Pathogenic ;1.7;1.5;1.9;3.50E-26
+Membrane;Pathogenic;2.7;2.5;3;1.40E-87
+Membrane;Likely-pathogenic;2.8;2.3;3.3;5.00E-30
+Membrane;Pathogenic + likely-Pathogenic ;2.7;2.4;3;1.70E-93
+Pore-lining (structure);Pathogenic;2.2;1.7;2.7;5.20E-10
+Pore-lining (structure);Likely-pathogenic;2.3;1.5;3.4;5.20E-05
+Pore-lining (structure);Pathogenic + likely-Pathogenic ;2.2;1.7;2.7;6.90E-11
+Pore-lining (Uniprot);Pathogenic;3.5;2.8;4.3;2.70E-31
+Pore-lining (Uniprot);Likely-pathogenic;3.7;2.6;5.1;2.50E-13
+Pore-lining (Uniprot);Pathogenic + likely-Pathogenic ;3.4;2.8;4.2;1.20E-32
+PPI;Pathogenic;1.6;1.4;1.9;8.40E-11
+PPI;Likely-pathogenic;1.8;1.4;2.3;1.40E-06
+PPI;Pathogenic + likely-Pathogenic ;1.6;1.4;1.9;1.10E-11
+Voltage-sensor;Pathogenic;6;3.6;10.3;9.40E-14
+Voltage-sensor;Likely-pathogenic;4.6;2;10.2;3.40E-04
+Voltage-sensor;Pathogenic + likely-Pathogenic ;5.7;3.5;9.8;1.10E-13
